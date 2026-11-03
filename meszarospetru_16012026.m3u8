@@ -1,0 +1,169 @@
+#EXTM3U
+#EXTINF:0,ORF 2 HD
+#EXTGRP:unsorted
+https://viamotionhsi.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
+#EXTINF:0,TIROL TV
+#EXTGRP:unsorted
+https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
+#EXTINF:0,MUENCHEN TV
+#EXTGRP:unsorted
+https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
+#EXTINF:0,NOA4 HAMBURG
+#EXTGRP:unsorted
+http://hls1.wtnet.de/noa4/apple/wifi3000.m3u8?time=1477596966834
+#EXTINF:0,PANONN RTV SUBOTICA
+#EXTGRP:unsorted
+https://stream2.nmih.hu:4102/live.m3u8
+#EXTINF:0,RTV BANOVINA
+#EXTGRP:unsorted
+https://pool.alter-media.hr:1936/live/myStream/chunklist_w1813945356.m3u8
+#EXTINF:0,DUGA + TV
+#EXTGRP:unsorted
+http://109.92.29.10:1935/tvduga/tvduga/chunklist_w219662132.m3u8
+#EXTINF:0,RTV 1 NOVI SAD
+#EXTGRP:unsorted
+http://212.200.230.50:1935/RTV/rtv1/chunklist_w42694759.m3u8
+#EXTINF:0,RTV 2 NOVI SAD
+#EXTGRP:unsorted
+http://212.200.230.50:1935/RTV/rtv2/chunklist_w640488149.m3u8
+#EXTINF:0,RTRS
+#EXTGRP:unsorted
+https://parh.rtrs.tv/tv/live/chunklist_w746897262.m3u8
+#EXTINF:0,RTRS PLUS
+#EXTGRP:unsorted
+http://parh.rtrs.tv:1935/plus/plus/playlist.m3u8
+#EXTINF:0,ORF 1 HD
+#EXTGRP:unsorted
+https://viamotionhsi.netplus.ch/live/eds/orf1/browser-HLS8/orf1.m3u8
+#EXTINF:0,ORF 2 HD
+#EXTGRP:unsorted
+https://viamotionhsi.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
+#EXTINF:0,ORF 3 HD
+#EXTGRP:unsorted
+https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
+#EXTINF:0,ORF KIDS
+#EXTGRP:unsorted
+https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd
+#EXTINF:0,ORF SPORT +
+#EXTGRP:unsorted
+https://orfs.mdn.ors.at/orf/orfs/drmqxa/manifest.m3u8
+#EXTINF:0,ATV AUSTRIA
+#EXTGRP:unsorted
+https://strm.hdtvizlecanli.com/live/atv.m3u8
+#EXTINF:0,ATV 2 AUSTRIA
+#EXTGRP:unsorted
+https://viamotionhsi.netplus.ch/live/eds/atv/browser-dash/atv.mpd
+#EXTINF:0,SERVUS TV AUSTRIA
+#EXTGRP:unsorted
+https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8
+#EXTINF:0,DTV - DEBRECEN TV
+#EXTGRP:unsorted
+https://cloudfront44.lexanetwork.com:1442/hlsrelay003/hls/livestream.sdp.m3u8
+#EXTINF:0,SUPER TV 1 RO
+#EXTGRP:unsorted
+http://iptv.supertv.ro:8000/play/a001/index.m3u8
+#EXTINF:0,FS1 Salzburg
+#EXTGRP:unsorted
+http://stream.fs1.tv:80/hls/webstream.m3u8
+#EXTINF:0,KRONEHIT TV
+#EXTGRP:unsorted
+http://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:0,HRT 1
+#EXTGRP:unsorted
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
+#EXTINF:0,HRT 2
+#EXTGRP:unsorted
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd
+#EXTINF:0,HRT 3
+#EXTGRP:unsorted
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
+#EXTINF:0,HRT 4
+#EXTGRP:unsorted
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
+#EXTINF:0,CMC TV CROATIA
+#EXTGRP:unsorted
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+#EXTINF:0,MOLDOVA 1
+#EXTGRP:unsorted
+https://v.trm.md/static/streaming-playlists/hls/6b3b523a-6a02-444c-8129-8354bbeffbc9/0.m3u8
+#EXTINF:0,MOLDOVA 2
+#EXTGRP:unsorted
+https://v.trm.md/static/streaming-playlists/hls/937e4e0e-7174-4fb2-a299-480e68b49ecb/0.m3u8
+#EXTINF:0,DAS ERSTE
+#EXTGRP:unsorted
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
+#EXTINF:0,BR FERNSEHEN
+#EXTGRP:unsorted
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master_1920p_5000.m3u8
+#EXTINF:0,BR
+#EXTGRP:unsorted
+https://mcdn.br.de/br/fs/bfs_sued/hls/int/master_1920p_5000.m3u8
+#EXTINF:0,BR PANORAMA BILDER
+#EXTGRP:unsorted
+https://brevent.akamaized.net/hls/live/2028222/event_05/master.m3u8
+#EXTINF:0,BR PANORAMA BILDER
+#EXTGRP:unsorted
+https://brevent.akamaized.net/hls/live/2028222/event_05/master1080p5000.m3u8
+#EXTINF:0,WETTERPANORAMA VON SERVUS TV
+#EXTGRP:unsorted
+https://rbmn-live.akamaized.net/hls/live/665268/Wetterpanorama/master_6692.m3u8
+#EXTINF:0,ARD ALPHA
+#EXTGRP:unsorted
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:0,HR
+#EXTGRP:unsorted
+https://hrhls.akamaized.net/hls/live/2024525-b/hrhls/master.m3u8
+#EXTINF:0,SR
+#EXTGRP:unsorted
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/master-540p-1728.m3u8
+#EXTINF:0,WDR
+#EXTGRP:unsorted
+https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master.m3u8
+#EXTINF:0,MDR
+#EXTGRP:unsorted
+https://viamotionhsi.netplus.ch/live/eds/mdr/browser-HLS8/mdr.m3u8
+#EXTINF:0,3 SAT
+#EXTGRP:unsorted
+https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-dash/3sathd.mpd
+#EXTINF:0,DEUTSCHE MUSIK FERNSEHEN
+#EXTGRP:unsorted
+https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/chunks.m3u8
+#EXTINF:0,DELUXE SCHLAGER
+#EXTGRP:unsorted
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+#EXTINF:0,INFO HD TV Deva
+#EXTGRP:unsorted
+https://netstreaming.eu/InfoHd.m3u8
+#EXTINF:0,HD 365 PETROSANI
+#EXTGRP:unsorted
+https://netstreaming.eu/hd365.m3u8
+#EXTINF:0,M9 Tv
+#EXTGRP:unsorted
+https://netstreaming.eu/m9tv.m3u8
+#EXTINF:0,TV 1 SATU MARE
+#EXTGRP:unsorted
+https://netstreaming.eu/tv1.m3u8
+#EXTINF:0,AS TV BISTRITA
+#EXTGRP:unsorted
+https://netstreaming.eu/astv.m3u8
+#EXTINF:0,BANAT TV RESITA
+#EXTGRP:unsorted
+https://www.btv.ro/hls/banat-tv.m3u8
+#EXTINF:0,BALKAN RADIO SALZBURG
+#EXTGRP:unsorted
+https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/playlist.m3u8
+#EXTINF:0,DM SAT
+#EXTGRP:unsorted
+https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-dash/dmsat.mpd
+#EXTINF:0,PINK TV
+#EXTGRP:unsorted
+https://edge8.pink.rs/pinktv/index.m3u8
+#EXTINF:0,RTS 1
+#EXTGRP:unsorted
+https://webtvstream.bhtelecom.ba/rts1.m3u8
+#EXTINF:0,RTS 2
+#EXTGRP:unsorted
+https://webtvstream.bhtelecom.ba/rts2.m3u8
+#EXTINF:0,RTS SAT
+#EXTGRP:unsorted
+https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-dash/rtssat.mpd
